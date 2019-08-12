@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Google",
+    "video": "https://www.youtube.com/embed/n_Cn8eFo7u8",
+    "logo":"Google.com",
+    "career":"https://careers.google.com/jobs",
+    "info":"American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware"
+  },
+  {
+    "name": "Microsoft",
+    "video": "https://www.youtube.com/embed/aaglPKExHw8",
+    "logo":"Microsoft.com",
+    "career":"https://careers.microsoft.com/us/en",
+    "info":"Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services"
+  },
+  {
+    "name": "Apple",
+    "video": "https://www.youtube.com/embed/X9SK052cF3c",
+    "logo":"Apple.com",
+    "career":"https://www.apple.com/jobs/us/",
+    "info":"Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook."
+  },
+  {
+    "name": "Amazon",
+    "video": "https://www.youtube.com/embed/VyXs8B0csDA",
+    "logo":"Amazon.com",
+    "career":"https://www.amazon.jobs/en",
+    "info":"American multinational technology company based in Seattle, Washington that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence"
+  },
+  {
+    "name": "AppsFlyer",
+    "video": "https://www.youtube.com/embed/QGABYtsc-eI",
+    "logo":"AppsFlyer.com",
+    "career":"https://www.appsflyer.com/jobs",
+    "info":"AppsFlyer is the world's leading mobile attribution & marketing analytics platform, helping app marketers around the world make better decisions."
+  }
+]
